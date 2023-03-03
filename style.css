@@ -2,7 +2,33 @@ body {
     background-color: #EAF6F6;
 }
 
-.profilepic{
+.pro-img{
     border-radius: 50px;
     width: 100px;
+}
+
+.profile-details{
+    
+
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color: grey;
+    border-width: 3px;
+
+}
+
+h1 {
+    color: #3A98B9;
+}
+
+h2 {
+    color: #3A98B9;
+}
+
+h3 {
+    color: #3A98B9;
 }
